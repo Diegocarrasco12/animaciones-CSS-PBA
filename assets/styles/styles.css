@@ -149,10 +149,6 @@ label {
     transition: background-color 0.5s ease-in;
   }
 
-  .card shadow {
-
-  }
-
 .post-gallery{
     display: grid;
     grid-template-columns: 1fr;
